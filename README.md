@@ -20,7 +20,7 @@
 4. Настрой токен
 5. Запусти бота
 
-### 1. Клонируй репозиторий
+### 1. Копия репозитория
 import asyncio
 import os
 from aiogram import Bot, Dispatcher, types
